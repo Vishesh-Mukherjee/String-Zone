@@ -1,0 +1,6 @@
+package com.gdgu.shop;
+
+public enum Wood {
+    INDIAN_ROSEWOOD, BRAZILIAN_ROSEWOOD, MAHOGANY, MAPLE,
+    COCOBOLO, CEDAR, ADIRONDAOK, ALDER, SITKA;
+}
